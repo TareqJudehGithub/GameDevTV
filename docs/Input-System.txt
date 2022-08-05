@@ -1,0 +1,14 @@
+Unity Input System
+ - Input System converts the player's physical action (eg. button press)
+   into information for the game.
+ - We apply Inputs to give users the ability to manually move objects
+   in all directions.
+ - First we declare the Input variables
+      float speedAmount = Input.GetAxis("Horizontal");
+      float speedAmount = Input.GetAxis("Vertical");
+ - IMPORTANT - In the GetAxis() method argument, the horizontal 
+   and vertical names should match the ones in Unity Project Setting
+   
+
+
+  

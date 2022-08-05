@@ -1,0 +1,4 @@
+SerializeField
+ - SerializeField allows us change variables value while playing the script
+   in Unity.
+     [SerializeField] float moveSpeed = 0.01F;

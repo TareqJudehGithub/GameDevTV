@@ -1,0 +1,9 @@
+Methods is Unity
+
+Start()
+ - When we press Play button in Unity client, 
+
+Update()
+ - Update is running every single frame(second) the game is running.
+ 
+

@@ -1,0 +1,15 @@
+Debug.Log()     types a messages to the Console
+
+Methods in Unity
+ - Creating and Calling methods
+ - Creating a a method by giving it a name and saying what it should do.
+ - Calling a method is when we execute it.
+
+
+transform class
+ - transform class contain many helpful methods for Unity.
+ - transform methods:
+  .Rotate(float x, float y, float z);
+   - Rotate method turns objects a side left or right.
+  .Translate(float x, float y, float z);
+   - Translate method moves objects forward of backward.

@@ -1,0 +1,16 @@
+Unity Introduction and useful tips
+
+Sprite
+ - A sprite is a 2d graphic object obtained from a bitmap image.
+
+Unity key shortcuts
+ - CONTROL+D      Copy current object.
+ - W              move object
+ - r              rescale (x, y)
+ - t              rescale object
+ - e              rotate object
+
+Unity project .cs file location:
+ //projectName/Assets/Scenes/filename.cs
+ 
+
